@@ -1,7 +1,7 @@
 # Программирование
 
 ## Самостоятельная работа 1
-+ [GitHub, разметка](
++ [GitHub, разметка](https://github.com/MozartArthur/Programming/blob/master/SM1.md 'GitHub, разметка')
 
 ## Введение в Python и основы синтаксиса
 + Лабораторная работа 2 
