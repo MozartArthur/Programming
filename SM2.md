@@ -8,4 +8,4 @@
 
 ### Результат 
 ![Результат](image/sm2.png)
-+[Ссылка на Repl.it](https://repl.it/@ArthurMozart/Tabl)
++ [Ссылка на Repl.it](https://repl.it/@ArthurMozart/Tabl)
