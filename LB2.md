@@ -5,7 +5,7 @@
 
 ### Результат выполнения работы
 
-![Результат](lb2.png )
+![Результат](image/lb2.png )
 
 + [Ссылка на Repl.it](https://repl.it/@ArthurMozart/TablIstina)
 
