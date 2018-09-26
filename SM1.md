@@ -17,4 +17,4 @@
 
 [Ссылка на портфолио](image/https://mozartarthur.github.io/ "Нажимай, не бойся!")
 
-![Ohana](original.gif "Stitch")
+![Ohana](image/original.gif "Stitch")
