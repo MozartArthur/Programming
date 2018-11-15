@@ -10,4 +10,4 @@
 + [Срезы](https://github.com/MozartArthur/Programming/blob/master/LB3.md)
 + [Факториал](https://repl.it/@ArthurMozart/factorial)
 + [Функции.Задачи](https://github.com/MozartArthur/Programming/blob/master/SM3.md)
-+ [18-10-2018]()
++ [18-10-2018](https://github.com/MozartArthur/Programming/blob/master/18102018.md)
