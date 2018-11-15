@@ -11,4 +11,4 @@
 + [Срезы](https://github.com/MozartArthur/Programming/blob/master/LB3.md)
 + [Факториал](https://repl.it/@ArthurMozart/factorial)
 + [Функции.Задачи](https://github.com/MozartArthur/Programming/blob/master/SM3.md)
-+ [unique_func]()
++ [18-10-2018]()
