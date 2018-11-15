@@ -7,3 +7,6 @@ def unique_func(itarable, seen=None):
 
 
 print(unique_func([1,1,1,2,2,3,3]))
+
+if __name__ == '__main__':
+    assert unique_func([1,1,1,2,2,3,3,3]) == [1, 2, 3]
