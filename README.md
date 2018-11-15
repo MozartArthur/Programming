@@ -10,5 +10,5 @@
 + [Таблицы истинности, срезы](https://github.com/MozartArthur/Programming/blob/master/SM2.md)
 + [Срезы](https://github.com/MozartArthur/Programming/blob/master/LB3.md)
 + [Факториал](https://repl.it/@ArthurMozart/factorial)
-+ [Функции.Задачи]()
-+ []
++ [Функции.Задачи](https://github.com/MozartArthur/Programming/blob/master/SM3.md)
++ [unique_func]()
